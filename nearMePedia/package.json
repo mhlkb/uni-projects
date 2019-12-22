@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-native-paper": "3.1.1",
+    "react-navigation": "^4.0.7",
+    "react-native-vector-icons/Ionicons": "6.6.0",
+    "react-navigation-stack": "1.10.3",
+    "react-native-gesture-handler": "^1.0.0",
+    "react-native-screens": "^1.0.0-alpha",
+    "react-navigation-tabs": "2.6.2",
+    "react-native-reanimated": "^1.0.0-alpha",
+    "unstated": "2.1.1",
+    "expo-permissions": "8.0.0",
+    "expo-location": "8.0.0"
+  }
+}
